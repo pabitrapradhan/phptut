@@ -1,6 +1,5 @@
 <?php
-echo "Welcome";
-?>
+echo "Welcome";?>
 <html>
 	<head>
 		<title>String Functions</title>
